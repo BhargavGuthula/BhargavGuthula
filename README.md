@@ -1,36 +1,21 @@
-## Hi there 👋
 
-<!--
-**BhargavGuthula/BhargavGuthula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Bhargav Guthula  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi 👋, I'm [Your Name]  
-
-💻 A passionate **[Your Role: Frontend / Fullstack / AI Developer]** from [Your Country]  
-🔭 I’m currently working on **[Project / Startup / Idea]**  
-🌱 I’m currently learning **[Tech/Framework]**  
-🤝 I’m open to collaborate on **[Area: AI, Web Dev, Open Source]**  
-👨‍💻 All of my projects are available at [Portfolio Link]  
-💬 Ask me about **[Key Skills: React, Node.js, GenAI, etc.]**  
-📫 Reach me at **[Email] | [LinkedIn] | [Portfolio]**  
-⚡ Fun fact: **[Something unique/fun about you]**  
+💻 A passionate **[Your Role: Frontend / Fullstack / AI Developer]** from India  
+🔭 I’m currently working on lexis official website  
+🌱 I’m currently learning React js 
+🤝 I’m open to collaborate on web development
+👨‍💻 All of my projects are available at --not yet created 
+💬 Ask me about React , full stack 
+📫 Reach me at Email: Bhargavguthula013@gmai.com Linkdin:Bhargava sai Guthula   
+⚡ Fun fact: i am trying to learn ai and ml also , just ping me to discuss.
 
 ---
 
 ## 🌐 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bhargava-sai-guthula-7b3132242)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white)](your-portfolio-link)  
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)  
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](Bhargavguthula013@gmail.com)  
 
 ---
 
