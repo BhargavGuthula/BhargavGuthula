@@ -31,9 +31,6 @@
 ---
 
 ## 📌 Pinned Projects  
-- 🚀 **[AI Teacher](https://github.com/yourusername/ai-teacher)** – AI-powered learning assistant (Python, Transformers)  
-- 🌐 **[Website Generator](https://github.com/yourusername/website-generator)** – Static site generator with LangChain (Python, JS)  
-- 📊 **[cpTracker](https://github.com/yourusername/cpTracker)** – Competitive programming problem tracker (JavaScript, Firebase)  
 
 ---
 
