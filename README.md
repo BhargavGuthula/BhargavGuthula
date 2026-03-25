@@ -1,7 +1,7 @@
 
 # Konnichiwa 🙌, I'm Bhargav Guthula  
 💻 A passionate developer from India who loves crafting pixel-perfect, meaningful web experiences.  
-🔭 Currently building **Lexis Club’s official website** — turning ideas into interactive reality.  
+🔭 hit me up with some ideas — turning ideas into interactive reality.  
 🌱 Deep-diving into **React.js** (and slowly falling in love with the component life 💙).  
 🤝 Always open to **collaborate** on exciting **web dev** or creative frontend projects!  
 👨‍💻 All my projects will soon live here — still setting up my digital playground 😅  
