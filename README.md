@@ -1,44 +1,188 @@
+````md
+<div align="center">
 
-# Konnichiwa 🙌, I'm Bhargav Guthula  
-💻 A passionate developer from India who loves crafting pixel-perfect, meaningful web experiences.  
-🔭 hit me up with some ideas — turning ideas into interactive reality.  
-🌱 Deep-diving into **React.js** (and slowly falling in love with the component life 💙).  
-🤝 Always open to **collaborate** on exciting **web dev** or creative frontend projects!  
-👨‍💻 All my projects will soon live here — still setting up my digital playground 😅  
-💬 Ask me about **React**, **full-stack development**, or anything techy — I love micro-details 😁❤️  
-📫 Reach me at: **bhargavguthula013@gmail.com** | [LinkedIn: Bhargava Sai Guthula](https://linkedin.com/in/bhargava-sai-guthula)  
-⚡ Fun fact: I’m also exploring **AI & ML** — if you’re into that, just ping me. Let’s geek out together 🤖💬  
+# 👋 Hi, I'm Bhargav Guthula
 
-## 🌐 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bhargava-sai-guthula-7b3132242)    
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](Bhargavguthula013@gmail.com)  
+### Full Stack Developer • React Developer • AI Enthusiast
 
----
-## 🚀 Tech Stack
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+AI+Developer;Building+Products+That+Solve+Problems;Always+Learning+Always+Building" alt="Typing SVG" />
 
-### 💻 Frontend Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=bhargavguthula&label=Profile+Views&color=3B82F6&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/bhargavguthula?style=for-the-badge" />
+
+<img src="https://img.shields.io/github/stars/bhargavguthula?affiliations=OWNER&style=for-the-badge" />
+
+</div>
 
 ---
 
-### ⚙️ Backend & Database
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+## 🚀 About Me
 
----
-
-
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhargavguthula&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavguthula&layout=compact&theme=radical&langs_count=6)  
-
----
+```javascript
+const bhargav = {
+  role: "Full Stack Developer",
+  location: "India 🇮🇳",
   
+  currentlyLearning: [
+    "Advanced React",
+    "System Design",
+    "Artificial Intelligence"
+  ],
+
+  technologies: [
+    "React",
+    "Node.js",
+    "Firebase",
+    "Python"
+  ],
+
+  motto: "Build. Learn. Improve. Repeat."
+}
+````
+
+* 🎓 Engineering Student
+* 💻 Passionate about building modern web applications
+* 🌱 Currently exploring AI-powered software solutions
+* 🤝 Open to collaborations and exciting projects
+* ⚡ Love transforming ideas into real products
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,firebase" />
+
+### Database & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman" />
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+### ⚔️ DSA Duels
+
+Real-time coding battle platform featuring:
+
+* 1v1 Matchmaking
+* Competitive Ranking System
+* Real-Time Coding Battles
+* Performance Analytics
+
+**Tech Stack:** React • Firebase • DSA
+
+---
+
+### 🤖 ProPhysio AI
+
+AI-powered physiotherapy assistant offering:
+
+* Injury Risk Assessment
+* Personalized Recommendations
+* Rehabilitation Guidance
+
+**Tech Stack:** Python • Streamlit • AI
+
+---
+
+### 🌊 Coastal Tourism Recommendation System
+
+Smart beach recommendation platform using:
+
+* Weather Data
+* Oceanic Conditions
+* Safety Indicators
+
+**Tech Stack:** Flutter • APIs • Data Analytics
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhargavguthula&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavguthula&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=bhargavguthula&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=bhargavguthula&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhargavguthula&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 Current Goals
+
+* 🚀 Build Production-Ready SaaS Products
+* 🌍 Contribute to Open Source
+* 📚 Master System Design
+* 🤖 Explore AI & Machine Learning
+* 💼 Secure a Software Engineering Role
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/bhargava-sai-guthula-7b3132242">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:bhargavguthula013@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Building software that solves real-world problems
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=120&section=footer"/>
+
+</div>
+```
